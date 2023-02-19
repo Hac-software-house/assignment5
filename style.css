@@ -1,0 +1,364 @@
+*{
+    margin-right: 20px;
+    
+}
+.first{
+    height: 50px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.logo{
+    margin-left: 95px;
+    margin-top: -35px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.ul{
+    float: right;
+    margin-top:-30px ;
+    
+}
+
+ul li{
+    display: inline-block;
+        
+}
+
+.ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+      
+}
+.ser{
+    height: 20px;
+}
+.font{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 35px;
+}
+.pera{
+    height: 10px;
+    width: 600px;
+    margin-left: 40px;
+    margin-top: -60px;
+}
+.tray{
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -200px;
+}
+
+.shop{
+    margin-left: 40px;
+    background-color:  #f3603d;
+    border-style: none;
+    height: 40px;
+    width: 120px;
+    color: white;
+}
+.contact{
+    background-color:  black;
+    border-style: none;
+    height: 40px;
+    width: 120px;
+    color: white;
+}
+
+.buton{
+    background-color: #f3603d;
+    color: white;
+    border-style: none;
+    height: 30px;
+
+}
+.heading{
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+.under{
+    text-align: center;
+    margin-top: -30px;
+}
+
+.boxfirst{
+    box-shadow: 1px 1px 1px 1px;
+    width: 300px;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+.boxsecond{
+    box-shadow: 1px 1px 1px 1px;
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: -300px;
+    border-radius: 5px;
+}
+.boxthird{
+    box-shadow: 1px 1px 1px 1px;
+    width: 300px;
+    height: 300px;
+    margin-left: 850px;
+    margin-top: -300px;
+    border-radius: 5px;
+}
+
+.box1{
+    width: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.box2{
+    width: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.box3{
+    width: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.orange{
+    text-align: center;
+    font-family: sans-serif;
+    color: #f3603d;
+}
+.grap{
+    text-align: center;
+    font-family: sans-serif;
+    color: #f3603d;
+}
+.gova{
+    text-align: center;
+    font-family: sans-serif;
+    color: #f3603d;
+}
+.pera1{
+    text-align: center;
+}
+.pera2{
+    text-align: center;
+}
+.pera3{
+    text-align: center;
+}
+.read{
+    background-color:  black;
+    border-style: none;
+    height: 40px;
+    width: 120px;
+    color: white;
+    margin-left: 45%;
+    margin-top: 50px;
+}
+.lets{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+.ps{
+    text-align: center;
+    margin-top: -20px;
+}
+.phase1{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.phase{
+    width: 60%;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+.imgor{
+    margin-left: 80%;
+    width: 20%;
+    margin-top: -140px;
+}
+
+.ps2{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.phase2{
+    width: 60%;
+    margin-left: 50px;
+}
+.gt1{
+    width: 80px;
+    margin-left: 85%;
+    margin-top: -180px;
+}
+.first1{
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 120px;
+}
+.first2{
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 120px;
+}
+.gt2{
+    width: 200px;
+    margin-left: 80%;
+    margin-top: -140px;
+}
+.lasts{
+    text-align: center;
+    margin-top: 100px;
+    font-family: sans-serif;
+}
+.peral{
+    text-align: center;
+    margin-top: -35px;
+}
+.icon{
+    margin-left: 40%;
+    width: 300px;
+}
+.jon{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+.last5{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.con{
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.form input{
+    margin: 5px;
+    margin-left: 50px;
+    width: 600px;
+    border-top: black;
+    border-left: black;
+    border-right: black;
+    height: 30px;
+            
+}
+.sub{
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 80px;
+    height: 30px;
+    background-color:#f3603d ;
+    color: white;
+    border-style: none;
+}
+.plat{
+    width: 150px;
+    margin-left: 85%;
+    margin-top: -300px;
+}
+.head1{
+    font-family: sans-serif;
+    font-weight: normal;
+    margin-top: 200px;
+    margin-left: 50px;
+  
+}
+.head2{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 100px;
+    height: 20px;
+    margin-top: -10px;
+    text-align: justify;
+}
+
+.head3{
+    margin-left: 220px;
+    width: 100px;
+    height: 20px;
+    text-align: justify;
+    margin-top: -30px;
+    font-weight: normal;
+}
+.head4{
+     margin-top: -70px;
+     margin-left: 220px;
+         
+}
+.head6{
+    margin-left: 400px;
+    width: 100px;
+    height: 20px;
+    text-align: justify;
+    margin-top: -30px;
+    font-weight: normal;
+}
+.head5{
+     margin-top: -80px;
+     margin-left: 400px;
+}
+.follow{
+    margin-left: 70%;
+    margin-top: -90px;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+.imges img{
+    width: 30px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
